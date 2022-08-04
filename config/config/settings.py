@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'apiv0',
     'rest_framework',
-    'metsenat',
+    'sponsor',
 ]
 
 MIDDLEWARE = [

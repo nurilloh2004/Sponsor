@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MetnesatConfig(AppConfig):
+class SponsorConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'metsenat'
+    name = 'sponsor'
